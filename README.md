@@ -9,5 +9,10 @@ Beberapa contoh operasi geometri pada pengolahan citra menggunakan aplikasi Octa
 5. Interpolasi citra
 6. Perbesaran dan pengecilan citra
 7. Pencerminan horizontal dan vertikal
+8. Efek Ripple
+9. Efek Twirl
+10. Affine Transformation
+11. Efek Spherical
+12. Bilinear
 
 # Khoerul Umam
